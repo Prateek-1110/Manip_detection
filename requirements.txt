@@ -1,0 +1,19 @@
+# Core Data Analysis & Machine Learning
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Deep Learning & NLP Models
+torch
+transformers
+sentence-transformers
+
+# API Clients & Utilities
+openai
+python-dotenv
+
+# Visualization & Plotting
+matplotlib
+seaborn
