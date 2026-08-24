@@ -120,7 +120,7 @@ graph TD
 
 1. **Clone the repository and navigate to the project directory**:
    ```bash
-   git clone <>
+   git clone https://github.com/Prateek-1110/Manip_detection
    cd Manip_detection
    ```
 
